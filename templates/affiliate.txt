@@ -1,3 +1,0 @@
-Hey {user}, here's something that might interest you:
-Check this out 👉 {link}
-Let me know what you think!
