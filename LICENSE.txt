@@ -1,0 +1,12 @@
+HEX ECOSYSTEM – TERMS OF USE & LICENSE AGREEMENT
+
+This software is a part of the HEX Automation Ecosystem. It is protected under a limited-use license.
+
+1. You may not resell, redistribute, or decompile this software.
+2. You may only use this code inside official HEX bots, Lite or Pro modules.
+3. License is bound to one user/machine unless otherwise stated.
+4. Violations may result in license termination or legal action.
+
+Contact: github.com/HexTide
+
+© HEX Automation • All Rights Reserved
